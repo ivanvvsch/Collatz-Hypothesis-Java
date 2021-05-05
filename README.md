@@ -1,2 +1,2 @@
-# -ollatz-Hypothesis-Java
+# Collatz-Hypothesis-Java
 Collatz Hypothesis
